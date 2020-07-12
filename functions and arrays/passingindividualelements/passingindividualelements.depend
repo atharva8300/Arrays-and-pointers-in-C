@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593839626 source:d:\c_repos\arrays\merge\passingindividualelements\main.c
+	<stdio.h>
+	<conio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594353432 source:d:\c_repos\arrays\2darrays\pascals_2d_array\main.c
+	<stdio.h>
+	<conio.h>
+

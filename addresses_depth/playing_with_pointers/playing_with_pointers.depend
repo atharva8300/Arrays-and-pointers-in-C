@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594442819 source:d:\c_repos\arrays\addresses_depth\playing_with_pointers\main.c
+	<stdio.h>
+	<conio.h>
+

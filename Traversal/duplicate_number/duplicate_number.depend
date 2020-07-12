@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591505316 source:d:\c_repos\arrays\traversal\duplicate_number\main.c
+	<stdio.h>
+	<conio.h>
+

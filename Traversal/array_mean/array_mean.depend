@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591068561 source:d:\c_repos\arrays\traversal\array_mean\main.c
+	<stdio.h>
+	<conio.h>
+
