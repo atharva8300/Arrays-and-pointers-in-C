@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594525361 source:d:\c_repos\arrays\2darrays\funcitons_and_2darrays\main.c
+	<stdio.h>
+	<conio.h>
+
